@@ -56,6 +56,9 @@ We separated it out here to make it extra clear what has changed. */
 
 button {
   display: block;
-  margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
   padding: 8px 24px;
 }
