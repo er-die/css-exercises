@@ -39,10 +39,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display:block;
-  align-self: center;
   margin-bottom: 0 auto;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 24px;
-  padding-right: 24px;
+  padding: 8px 24px;
 }
